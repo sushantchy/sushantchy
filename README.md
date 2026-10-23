@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushantchy&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/sushantchy?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub followers" />
 </p>
 
